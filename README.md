@@ -1,18 +1,28 @@
-### Hola 👋, mi nombre es Aura
-#### soy Full Stack Developer 👩‍💻
-![soy Full Stack Developer 👩‍💻](https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif)
+<p align="center">
+  <img src="./banner-aura.png" width="100%" />
+</p>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-Soy una mujer que me encanta estar en continuo aprendizaje y dar de lo aprendido; soy soñadora, perseverante, luchadora, persistente y determinada cuando me planteo objetivos. Para este año me he planteado dos objetivos grandes: ser Full Stack Developer y Productora de Multimedia. Con esfuerzo y dedicación hoy soy Full Stack Developer y para llegar a mi meta como Productora de Multimedia aún falta camino el cual me encuentro cursando. Sigo instruyéndome para continuar creciendo personal, profesional y laboralmente. 
+# Hi, I'm Aura 👋
 
-Habilidades: TYPESCRIPT / JAVASCRIPT / REACT.JS / REDUX / HTML / CSS / POSTGRESS/ EXPRESS/ NODE.JS
+Fullstack Developer specialized in NestJS, Node.js, TypeScript and PostgreSQL.
 
-- 🔭 Estoy trabajando en el proyecto final de #Soyhenry en el Front-end, implementando las tecnologías de React, Redux, SASS 
-- 🌱 Estoy aprendiendo Typescript, Figma, Gitflow 
-- 👯 Quiero colaborar con un proyecto de desarrollo de videojuegos 
-- 💬 Pregúntame acerca de mis bocetos, mis diseños 😏 
-- 😄 Pronombres: Auri 
-- ⚡ Dato curioso: Me encanta leer Webtoom 😁  
+I have a background in Full Stack development and technical education, with experience as a Technical Instructor, Mentor and Education Specialist.
 
+## Tech Stack
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aurasandoval)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aura-sandoval-carcamo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@crhisuri) 
+- NestJS
+- Node.js
+- TypeScript
+- PostgreSQL
+- React
+- Git & GitHub
 
+## Currently
+
+- Building backend applications with NestJS
+- Improving software architecture skills
+- Teaching and mentoring developers
