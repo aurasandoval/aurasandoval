@@ -31,3 +31,7 @@ I have a background in Full Stack development and technical education, with expe
 - Building backend applications with NestJS
 - Improving software architecture skills
 - Teaching and mentoring developers
+
+## Connect with me
+**LinkedIn**: [www.linkedin.com/in/aura-sandoval-carcamo]
+**Email**: [auri.sandoval@gmail.com]
