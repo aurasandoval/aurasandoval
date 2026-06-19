@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-aura.png" width="100%" />
+  <img src="./banner github.png" width="100%" />
 </p>
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
