@@ -33,5 +33,5 @@ I have a background in Full Stack development and technical education, with expe
 - Teaching and mentoring developers
 
 ## Connect with me
-**[My LinkedIn]** (www.linkedin.com/in/aura-sandoval-carcamo)
-**[Email]** (auri.sandoval@gmail.com)
+🔗[My LinkedIn](www.linkedin.com/in/aura-sandoval-carcamo)
+[Email] (auri.sandoval@gmail.com)
